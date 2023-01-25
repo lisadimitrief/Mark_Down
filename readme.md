@@ -1,6 +1,6 @@
 # Go apprendre le Markdown !
 
-***Pour en savoir plus [clique ici](https://www.markdownguide.org/basic-syntax/ "le pseudo cours")***
+***Pour en savoir plus [clique ici !](https://www.markdownguide.org/basic-syntax/ "le pseudo cours")***
 
 ### La taille des titres
 
