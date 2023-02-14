@@ -1,6 +1,7 @@
 # Go apprendre le Markdown !
 
 ***Pour en savoir plus [clique ici !](https://www.markdownguide.org/basic-syntax/ "le pseudo cours")***
+***Et aussi [ici !](https://www.markdownguide.org/cheat-sheet/ "le pseudo cours")***
 
 ### La taille des titres
 
@@ -61,4 +62,4 @@ Les sites utiles:
 - *[Linkedin](www.linkedin.com)*
 - **[MDN](https://developer.mozilla.org/fr/docs/Web/CSS)**
 - [`Google`](www.google.fr)
-- ***[MarkdownGuide] [clique ici]***
+- ***[MarkdownGuide](https://www.markdownguide.org/basic-syntax/ "le pseudo cours")***
